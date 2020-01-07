@@ -1,0 +1,6 @@
+C:\Users\HaGrIL\Source\Repos\Task_5_Static\Extension\bin\Debug\Extension.exe.config
+C:\Users\HaGrIL\Source\Repos\Task_5_Static\Extension\bin\Debug\Extension.exe
+C:\Users\HaGrIL\Source\Repos\Task_5_Static\Extension\bin\Debug\Extension.pdb
+C:\Users\HaGrIL\Source\Repos\Task_5_Static\Extension\obj\Debug\Extension.exe
+C:\Users\HaGrIL\Source\Repos\Task_5_Static\Extension\obj\Debug\Extension.pdb
+C:\Users\HaGrIL\Source\Repos\Task_5_Static\Extension\obj\Debug\Extension.csprojAssemblyReference.cache

@@ -1,0 +1,6 @@
+C:\Users\HaGrIL\Source\Repos\Task_5_Static\CustomStringMethods\bin\Debug\CustomStringMethods.exe.config
+C:\Users\HaGrIL\Source\Repos\Task_5_Static\CustomStringMethods\bin\Debug\CustomStringMethods.exe
+C:\Users\HaGrIL\Source\Repos\Task_5_Static\CustomStringMethods\bin\Debug\CustomStringMethods.pdb
+C:\Users\HaGrIL\Source\Repos\Task_5_Static\CustomStringMethods\obj\Debug\CustomStringMethods.csprojAssemblyReference.cache
+C:\Users\HaGrIL\Source\Repos\Task_5_Static\CustomStringMethods\obj\Debug\CustomStringMethods.exe
+C:\Users\HaGrIL\Source\Repos\Task_5_Static\CustomStringMethods\obj\Debug\CustomStringMethods.pdb
