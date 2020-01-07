@@ -11,15 +11,18 @@ namespace CustomStringMethods
 {
     class Program
     {
-        static void Main(string[] args)
+          static void Main(string[] args)
         {
             string str = @"It's my life
 It's now or never
 I ain't gonna live forever...";
             Console.WriteLine("Your string is:\n" + str);
-            Console.WriteLine(str.Substring_(2, 5));
-            Console.WriteLine(str.IndexOf_("l"));
-            Console.WriteLine(str.Replace_(" n", "_*"));
+            Console.WriteLine();
+            Console.WriteLine("Substring: " + str.Substring_(2, 5));
+            Console.WriteLine();
+            Console.WriteLine("Index of 'l': " + str.IndexOf_("l"));
+            Console.WriteLine();
+            Console.WriteLine("After replace ('eve' to 'xyz'):\n" + str.Replace_("eve", "xyz"));
 
             Console.ReadKey();
 
